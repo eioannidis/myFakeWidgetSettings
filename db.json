@@ -1,7 +1,7 @@
 {
 	"settings": {
 	  "general":{
-  		  "language":"en","scanning":"manual","badge":"true","markupBadge":"true","additionalDoiInfo":"true","additionalDoiInfoTitle":"true","additionalMarkupInfo":"true","position":"downRight","buttonColor":"blue","theme":"theme1","maxSize":7,"deactivatePlugin":"true"
+  		  "language":"en","scanning":"manual","badge":"true","markupBadge":"true","configurationBadge":"true","additionalDoiInfo":"true","additionalDoiInfoTitle":"true","additionalMarkupInfo":"true","position":"downRight","buttonColor":"blue","theme":"theme1","maxSize":7,"deactivatePlugin":"true"
  		 },
 	  "dataset":{
   		  "collectedFrom":"true","hostedBy":"true","openaireId":"true","subTitle":"true","dateOfAcceptance":"true","publisher":"true","language":"true","source":"true","creators":"true","license":"true","trust":"true","relatedGroups":"true","instances":"true","relationships":"true","resourceType":"true","device":"true","size":"true","version":"true","lastMetadataUpdate":"true","metadataVersionNumber":"true"
